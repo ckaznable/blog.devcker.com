@@ -104,3 +104,5 @@ all_minifier: true
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+post_asset_folder: true
