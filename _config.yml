@@ -8,12 +8,12 @@ subtitle: '日常踩坑紀錄'
 description: '日常踩坑紀錄'
 keywords:
 author: Devcker
-language: zh-hant-TW 
+language: zh-TW
 timezone: 'Asia/Taipei'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.devcker.com 
+url: https://blog.devcker.com
 permalink: /:title/
 permalink_defaults:
 pretty_urls:
@@ -105,3 +105,5 @@ all_minifier: true
 deploy:
   type: ''
 
+sitemap:
+  path: sitemap.xml
