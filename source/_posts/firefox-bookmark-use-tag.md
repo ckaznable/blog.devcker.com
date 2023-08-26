@@ -14,7 +14,7 @@ date: 2021-01-02 16:08:54
 
 使用標籤除了可以讓我們更清楚收進來的網頁有哪些屬性之外，他還有一個功能就是可以當作一個捷徑
 
-![firefox bookmark](https://blog.devcker.com/wp-content/uploads/2021/01/firefox_HEup3D7aDg.png)
+![firefox bookmark](./firefox-bookmark-use-tag/firefox_HEup3D7aDg.png)
 
 以我的書籤為例，部落格是一般的書籤資料夾，後面兩個是一般的書籤，而常用就是我的其中一個標籤，我把常用這個標籤拉出來當作捷徑
 
@@ -28,7 +28,7 @@ date: 2021-01-02 16:08:54
 
 先點火狐瀏覽器右上角的三條線選單>收藏庫>書籤>最下面有一個顯示所有書籤直接點下去
 
-會開啟一個管理書籤的小視窗![firefox bookmark](https://blog.devcker.com/wp-content/uploads/2021/01/firefox_LB8jnH16I7.png)
+會開啟一個管理書籤的小視窗![firefox bookmark](./firefox-bookmark-use-tag/firefox_LB8jnH16I7.png)
 
 然後去選擇你要加標籤的書籤，我這邊用PTT為例
 
@@ -38,9 +38,9 @@ date: 2021-01-02 16:08:54
 
 像這邊我對PTT新增了三個標籤，這三個標籤的資料夾裡面都會有一個PTT，像我現在要在書籤工作列上面顯示常用跟新聞的話，我只要到旁邊的標籤上面按右鍵選複製，然後到下面的書籤工作列按貼上，就會出現在書籤工作列上了
 
-![firefox_2NKTUT08Ea](https://blog.devcker.com/wp-content/uploads/2021/01/firefox_zZojYGJ3xB.png)
+![firefox_2NKTUT08Ea](./firefox-bookmark-use-tag/firefox_zZojYGJ3xB.png)
 
-![firefox_2NKTUT08Ea](https://blog.devcker.com/wp-content/uploads/2021/01/firefox_2NKTUT08Ea.png)
+![firefox_2NKTUT08Ea](./firefox-bookmark-use-tag/firefox_2NKTUT08Ea.png)
 
 這樣就大功告成了，這樣我只要去開常用或者新聞都可以找到PTT而不用開兩個資料夾然後把PTT加兩次
 

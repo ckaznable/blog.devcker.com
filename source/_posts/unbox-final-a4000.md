@@ -19,41 +19,41 @@ date: 2021-03-20 12:09:48
 
 ## 開箱
 
-![final a4000](https://blog.devcker.com/wp-content/uploads/2021/03/DSC_0016-1024x576.jpg)
+![final a4000](./unbox-final-a4000/DSC_0016-1024x576.jpg)
 
 外盒，實際上比用看的還要大盒，差不多跟一個筆電的寬一樣高
 
-![fianl a4000](https://blog.devcker.com/wp-content/uploads/2021/03/DSC_0017-1024x576.jpg)
+![fianl a4000](./unbox-final-a4000/DSC_0017-1024x576.jpg)
 
 打開來就是像這樣，右邊就是耳機的收納盒跟收納耳塞的盒子
 
-![fianl a4000 box](https://blog.devcker.com/wp-content/uploads/2021/03/DSC_0018-1024x576.jpg)
+![fianl a4000 box](./unbox-final-a4000/DSC_0018-1024x576.jpg)
 
 收納盒，出廠是被套著的
 
-![fianl a4000 box](https://blog.devcker.com/wp-content/uploads/2021/03/DSC_0019-1024x576.jpg)
+![fianl a4000 box](./unbox-final-a4000/DSC_0019-1024x576.jpg)
 
 仔細看上面是有final的logo跟文字，整個盒子是矽膠，但摸起來非常舒服滑順
 
-![fianl a4000 box](https://blog.devcker.com/wp-content/uploads/2021/03/DSC_0020-1024x576.jpg)
+![fianl a4000 box](./unbox-final-a4000/DSC_0020-1024x576.jpg)
 
 盒子的底下，要從這邊打開
 
-![fianl a4000](https://blog.devcker.com/wp-content/uploads/2021/03/DSC_0021-1024x576.jpg)
+![fianl a4000](./unbox-final-a4000/DSC_0021-1024x576.jpg)
 
 打開之後就能看到耳機本體啦
 
-![fianl a4000](https://blog.devcker.com/wp-content/uploads/2021/03/DSC_0022-1024x576.jpg)
+![fianl a4000](./unbox-final-a4000/DSC_0022-1024x576.jpg)
 
 拿出來感覺就像這樣
 
-![fianl a4000](https://blog.devcker.com/wp-content/uploads/2021/03/DSC_0023-1024x576.jpg)
+![fianl a4000](./unbox-final-a4000/DSC_0023-1024x576.jpg)
 
-![fianl a4000](https://blog.devcker.com/wp-content/uploads/2021/03/DSC_0024-1024x576.jpg)
+![fianl a4000](./unbox-final-a4000/DSC_0024-1024x576.jpg)
 
 對耳機本體的第一個印象就是方方正正的，而且超級輕
 
-![fianl a4000](https://blog.devcker.com/wp-content/uploads/2021/03/DSC_0025-1024x576.jpg)
+![fianl a4000](./unbox-final-a4000/DSC_0025-1024x576.jpg)
 
 付的耳塞有五組大小可以選，而且這就是傳說中的[e套](https://tinyurl.com/yj8tfz4n "e套")嗎，第一次看到QQ
 

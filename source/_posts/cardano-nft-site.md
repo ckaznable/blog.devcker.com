@@ -27,7 +27,7 @@ date: 2021-10-03 11:15:40
 
 ## [CNFT.IO](https://www.cnft.io/ "CNFT.IO")
 
-[![CNFT.IO](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_juaR6T8mqk-1024x474.png)](https://www.cnft.io/ "![CNFT.IO](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_juaR6T8mqk-1024x474.png)")
+[![CNFT.IO](./cardano-nft-site/firefox_juaR6T8mqk-1024x474.png)](https://www.cnft.io/ "![CNFT.IO](./cardano-nft-site/firefox_juaR6T8mqk-1024x474.png)")
 
 這個是Cardano鍊上應該算目前最大的nft交易市場，雖然現在還沒有支援智能合約，只能先用註冊帳號的方式來使用，除了有時候會有bug以外，基本上都會正常使用，而且出了問題ada也是都會退
 
@@ -35,7 +35,7 @@ date: 2021-10-03 11:15:40
 
 ## [POOL.PM](https://pool.pm/ "POOL.PM")
 
-[![pool.pm](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_Rl0IXHNrzf-1024x471.png)](https://pool.pm/ "![pool.pm](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_Rl0IXHNrzf-1024x471.png)")
+[![pool.pm](./cardano-nft-site/firefox_Rl0IXHNrzf-1024x471.png)](https://pool.pm/ "![pool.pm](./cardano-nft-site/firefox_Rl0IXHNrzf-1024x471.png)")
 
 然後這一個是我覺得只要是Cardano使用者都應該要使用的網站，因為太好用，功能有點像block explorer，但整個介面就很好用，而且還支援質押池篩選，右上角也有一個nft按鈕可以直接看現在大家在交易或者在mint什麼nft項目
 
@@ -43,7 +43,7 @@ date: 2021-10-03 11:15:40
 
 ## [CNFT.TOOLS](https://cnft.tools/ "CNFT.TOOLS")
 
-[![cnft.tools](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_nYmuuF7DL6-1024x477.png)](https://cnft.tools/ "![cnft.tools](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_nYmuuF7DL6-1024x477.png)")
+[![cnft.tools](./cardano-nft-site/firefox_nYmuuF7DL6-1024x477.png)](https://cnft.tools/ "![cnft.tools](./cardano-nft-site/firefox_nYmuuF7DL6-1024x477.png)")
 
 這個網站非常好用，可以拿來看稀有度跟目前的價格，而且支援排序，像我如果要找地板價的nft我就直接把條件選成價格低到高來找，搜尋出來的結果還可以看這個價格帶的稀有度來看自己要來買哪一隻
 
@@ -53,25 +53,25 @@ date: 2021-10-03 11:15:40
 
 ## [cnftanalytics.io](https://cnftanalytics.io/php/topProjects.php "cnftanalytics.io")
 
-[![cnftanalytics.io](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_en2dy2Ynbj-1-300x140.png)](https://cnftanalytics.io/php/topProjects.php "![cnftanalytics.io](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_en2dy2Ynbj-1-300x140.png)")
+[![cnftanalytics.io](./cardano-nft-site/firefox_en2dy2Ynbj-1-300x140.png)](https://cnftanalytics.io/php/topProjects.php "![cnftanalytics.io](./cardano-nft-site/firefox_en2dy2Ynbj-1-300x140.png)")
 
 這個網站是我拿來看最近賣最好的項目的網站，他支援幾個時間段，我最常用的應該是24小時跟過去七天，讓我大概可以知道大家在買什麼，不過這網站可能現在比較少用了，現在都換成下面要介紹的那個
 
 ## [opencnft.io](https://opencnft.io/ "opencnft.io")
 
-[![opencnft.io](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_Hsan06ouXR-1024x473.png)](https://opencnft.io/ "![opencnft.io](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_Hsan06ouXR-1024x473.png)")
+[![opencnft.io](./cardano-nft-site/firefox_Hsan06ouXR-1024x473.png)](https://opencnft.io/ "![opencnft.io](./cardano-nft-site/firefox_Hsan06ouXR-1024x473.png)")
 
 現在看最近大家買什麼，都看這個網站，這個網站可以看到他項目前面還有圖片可以看，而且也是支援時間段篩選，這個網站比較特別的是一些還不知道名字的項目，如果大家也都在買的話，他也會出現在上面，只是項目名稱會變成Policy Id
 
 ## [cardanocube.io](https://www.cardanocube.io/ "cardanocube.io")
 
-[![cardanocube.io](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_Yph7mzsF9U-1024x414.png)](https://www.cardanocube.io/ "![cardanocube.io](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_Yph7mzsF9U-1024x414.png)")
+[![cardanocube.io](./cardano-nft-site/firefox_Yph7mzsF9U-1024x414.png)](https://www.cardanocube.io/ "![cardanocube.io](./cardano-nft-site/firefox_Yph7mzsF9U-1024x414.png)")
 
 這個是我拿來找特定服務項目用的網站，只要是Cardano上的項目他都會幫你分類好用途，要找特定服務的時候滿方便的
 
 ## [TokenRef](https://www.tokenref.com/ "TokenRef")
 
-[![TokenRef](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_9bKEHbqlrY-1024x476.png)](https://www.tokenref.com/ "![TokenRef](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_9bKEHbqlrY-1024x476.png)")
+[![TokenRef](./cardano-nft-site/firefox_9bKEHbqlrY-1024x476.png)](https://www.tokenref.com/ "![TokenRef](./cardano-nft-site/firefox_9bKEHbqlrY-1024x476.png)")
 
 這個網站跟cnft.tools一樣是可以拿來搜尋cnft的工具網站，但這網站有一個功能是可以看到cnft的購買紀錄，所以有時候我要買之前也會先來這邊看一下，不過這邊更新項目的速度就比較慢，但是功能也比較完整
 

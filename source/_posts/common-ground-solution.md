@@ -21,10 +21,10 @@ date: 2020-08-22 10:31:43
 
 這邊簡單開箱一下
 
-![共地隔離器](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0002-1-1024x576.jpg)
+![共地隔離器](./common-ground-solution/DSC_0002-1-1024x576.jpg)
 
-![共地隔離器](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0003-1-1024x576.jpg)
+![共地隔離器](./common-ground-solution/DSC_0003-1-1024x576.jpg)
 
-![共地隔離器](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0004-1-1024x576.jpg)
+![共地隔離器](./common-ground-solution/DSC_0004-1-1024x576.jpg)
 
 大概就這樣 本體加上一條線跟說明書

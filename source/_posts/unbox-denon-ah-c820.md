@@ -21,19 +21,19 @@ date: 2020-11-14 15:02:39
 
 ## 開箱
 
-![denon c820](https://blog.devcker.com/wp-content/uploads/2020/11/DSC_0013-1024x576.jpg)
+![denon c820](./unbox-denon-ah-c820/DSC_0013-1024x576.jpg)
 
 正面照
 
-![denon c820](https://blog.devcker.com/wp-content/uploads/2020/11/DSC_0014-1024x576.jpg)
+![denon c820](./unbox-denon-ah-c820/DSC_0014-1024x576.jpg)
 
 背面
 
-![denon c820](https://blog.devcker.com/wp-content/uploads/2020/11/DSC_0015-1024x576.jpg)
+![denon c820](./unbox-denon-ah-c820/DSC_0015-1024x576.jpg)
 
 打開封面之後就能看到耳機本體，跟一些設計理念之類的文字
 
-![denon c820](https://blog.devcker.com/wp-content/uploads/2020/11/DSC_0016-1024x576.jpg)
+![denon c820](./unbox-denon-ah-c820/DSC_0016-1024x576.jpg)
 
 把底部的膠帶用美工刀割開後拉出來，就能看到耳機跟幾個附贈的耳塞
 

@@ -124,6 +124,6 @@ date: 2019-12-26 19:55:52
 
 這個是我覺得非常非常方便的插件，簡單來說就是把google的捷徑放到瀏覽器上面來
 
-![G App Launcher Menu](https://blog.devcker.com/wp-content/uploads/2020/03/3cjSEIT6bp.png) ![G App Launcher Setting](https://blog.devcker.com/wp-content/uploads/2020/03/firefox_El6Ftnv0od.png)
+![G App Launcher Menu](./firefox-plugin-recommend/3cjSEIT6bp.png) ![G App Launcher Setting](./firefox-plugin-recommend/firefox_El6Ftnv0od.png)
 
 按一下插件icon就出現跟google有關的捷徑，也相對省了很多書籤，還可以編輯自己的捷徑，我真的覺得這個滿好用的，省得我每次都還要跑到google首頁再去點到這些地方 安裝連結: [G App Launcher (Google™ Shortcuts)](https://addons.mozilla.org/zh-TW/firefox/addon/google-shortcuts-all-google-se/?src=search)

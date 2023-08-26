@@ -31,19 +31,19 @@ date: 2020-10-31 10:40:04
 
 然後申請合箱的時候他會有一些加值服務，像是加300日圓可以幫你做簡易加固，我自己是有申請不過知道哪邊是加固過的送過來的箱子大概長這樣，整個包的滿滿的
 
-![樂一番 代運](https://blog.devcker.com/wp-content/uploads/2020/10/DSC_0001_edit-1024x576.jpg)
+![樂一番 代運](./leyifan-firsttime/DSC_0001_edit-1024x576.jpg)
 
-![樂一番 代運](https://blog.devcker.com/wp-content/uploads/2020/10/DSC_0003-1024x576.jpg)
+![樂一番 代運](./leyifan-firsttime/DSC_0003-1024x576.jpg)
 
-![樂一番 代運 專輯](https://blog.devcker.com/wp-content/uploads/2020/10/DSC_0004-1024x576.jpg)
+![樂一番 代運 專輯](./leyifan-firsttime/DSC_0004-1024x576.jpg)
 
 ## 整個購物加運送時間
 
-我總共從日本駿河屋買了四張專輯，10/2下單，10/6出貨，隔天就送到了[樂一番](https://www.leyifan.com/s/aV684h "樂一番")的倉庫，原本過兩天還沒出貨我還在擔心，上網查了一下原來駿河屋出貨本來就比較久，大家都過幾個禮拜才出貨，我也算是運氣不錯的了... ![駿河屋 購買紀錄](https://blog.devcker.com/wp-content/uploads/2020/10/firefox_yZN5BmW1SO.png)
+我總共從日本駿河屋買了四張專輯，10/2下單，10/6出貨，隔天就送到了[樂一番](https://www.leyifan.com/s/aV684h "樂一番")的倉庫，原本過兩天還沒出貨我還在擔心，上網查了一下原來駿河屋出貨本來就比較久，大家都過幾個禮拜才出貨，我也算是運氣不錯的了... ![駿河屋 購買紀錄](./leyifan-firsttime/firefox_yZN5BmW1SO.png)
 
 到了之後她會寄email跟簡訊告知你
 
-![樂一番入庫通知](https://blog.devcker.com/wp-content/uploads/2020/10/firefox.png)
+![樂一番入庫通知](./leyifan-firsttime/firefox.png)
 
 之後就是申請出貨跟選加值服務，申請完成後大概到10/13他就會通知已經完成發貨程序要你去付運費，付完運費之後隔天10/14他就會通知已經發貨上飛機要運過來台灣了
 
@@ -65,13 +65,13 @@ date: 2020-10-31 10:40:04
 
 送來的商品大概是長這樣，該強化保護的都有包上去
 
-![樂一番 代運 專輯](https://blog.devcker.com/wp-content/uploads/2020/10/DSC_0004-1024x576.jpg)
+![樂一番 代運 專輯](./leyifan-firsttime/DSC_0004-1024x576.jpg)
 
-![樂一番 代運 專輯](https://blog.devcker.com/wp-content/uploads/2020/10/DSC_0005-1-1024x576.jpg)
+![樂一番 代運 專輯](./leyifan-firsttime/DSC_0005-1-1024x576.jpg)
 
 商品拆開來看起來沒什麼太大的損傷
 
-![樂一番 代運 專輯](https://blog.devcker.com/wp-content/uploads/2020/10/DSC_0006-1-1024x576.jpg)
+![樂一番 代運 專輯](./leyifan-firsttime/DSC_0006-1-1024x576.jpg)
 
 ## 結論
 

@@ -29,15 +29,15 @@ date: 2020-12-12 16:25:24
 
 目前找到的一共有三本
 
-[![你所不知道的 JS：導讀，型別與文法](https://blog.devcker.com/wp-content/uploads/2020/12/9789863479666-223x300.jpeg)](https://www.books.com.tw/exep/assp.php/kamix/products/0010743987?sloc=main&utm_source=kamix&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202012 "![你所不知道的 JS：導讀，型別與文法](https://blog.devcker.com/wp-content/uploads/2020/12/9789863479666-223x300.jpeg)")
+[![你所不知道的 JS：導讀，型別與文法](./study-javascript-site-list/9789863479666-223x300.jpeg)](https://www.books.com.tw/exep/assp.php/kamix/products/0010743987?sloc=main&utm_source=kamix&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202012 "![你所不知道的 JS：導讀，型別與文法](./study-javascript-site-list/9789863479666-223x300.jpeg)")
 
 > [你所不知道的 JS：導讀，型別與文法](https://www.books.com.tw/exep/assp.php/kamix/products/0010709452?sloc=main&utm_source=kamix&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202012 "你所不知道的 JS：導讀，型別與文法")
 
-[![你所不知道的 JS：非同步處理與效能](https://blog.devcker.com/wp-content/uploads/2020/12/9789864762439-222x300.jpg)](https://www.books.com.tw/exep/assp.php/kamix/products/0010736118?sloc=main&utm_source=kamix&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202012 "![你所不知道的 JS：非同步處理與效能](https://blog.devcker.com/wp-content/uploads/2020/12/9789864762439-222x300.jpg)")
+[![你所不知道的 JS：非同步處理與效能](./study-javascript-site-list/9789864762439-222x300.jpg)](https://www.books.com.tw/exep/assp.php/kamix/products/0010736118?sloc=main&utm_source=kamix&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202012 "![你所不知道的 JS：非同步處理與效能](./study-javascript-site-list/9789864762439-222x300.jpg)")
 
 > [你所不知道的 JS：非同步處理與效能](https://www.books.com.tw/exep/assp.php/kamix/products/0010736118?sloc=main&utm_source=kamix&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202012 "你所不知道的 JS：非同步處理與效能")
 
-[![你所不知道的JS：ES6與未來發展](https://blog.devcker.com/wp-content/uploads/2020/01/getImage-213x300.jpg)](https://www.books.com.tw/exep/assp.php/kamix/products/0010743987?sloc=main&utm_source=kamix&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202012 "![你所不知道的JS：ES6與未來發展](https://blog.devcker.com/wp-content/uploads/2020/01/getImage-213x300.jpg)")
+[![你所不知道的JS：ES6與未來發展](./study-javascript-site-list/getImage-213x300.jpg)](https://www.books.com.tw/exep/assp.php/kamix/products/0010743987?sloc=main&utm_source=kamix&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202012 "![你所不知道的JS：ES6與未來發展](./study-javascript-site-list/getImage-213x300.jpg)")
 
 > [你所不知道的JS：ES6與未來發展](https://www.books.com.tw/exep/assp.php/kamix/products/0010743987?sloc=main&utm_source=kamix&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202012 "你所不知道的JS：ES6與未來發展")
 
@@ -47,7 +47,7 @@ date: 2020-12-12 16:25:24
 
 > [官網連結](https://es6.ruanyifeng.com/ "官網連結")
 
-![ES6標准入門](https://blog.devcker.com/wp-content/uploads/2020/01/cover_thumbnail_3rd-230x300.jpg)
+![ES6標准入門](./study-javascript-site-list/cover_thumbnail_3rd-230x300.jpg)
 
 > [實體書: ES6標准入門](https://www.books.com.tw/exep/assp.php/kamix/products/CN11465965?sloc=main&utm_source=kamix&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202001 "實體書: ES6標准入門")
 
@@ -87,7 +87,7 @@ date: 2020-12-12 16:25:24
 
 ## [caniuse.com](https://caniuse.com/ "caniuse.com")
 
-![caniuse](https://blog.devcker.com/wp-content/uploads/2020/12/firefox_wRtTm5Avvx-300x115.png)
+![caniuse](./study-javascript-site-list/firefox_wRtTm5Avvx-300x115.png)
 
 caniuse是一個查詢瀏覽器相容性的網站，這個根本是前端必備，特別是你還需要支援那個該X的IE的時候，就會很方便，有不支援的時候趕快找polyfill或換一種做法，再來就是使用新的語法的時候可以看看是不是大部分瀏覽器都已經實作，雖然跟入門沒啥關係，但我覺得前端必備，一定要記起來這個網站
 

@@ -15,19 +15,19 @@ date: 2021-08-14 09:54:06
 
 ## DAC本體
 
-![狂派plus2](https://blog.devcker.com/wp-content/uploads/2021/08/DSC_0038-1024x576.jpg)
+![狂派plus2](./kuang-pai-dac/DSC_0038-1024x576.jpg)
 
 狂派PLUS2的盒子就小小的，如圖所示就是一個簡單的黑色盒子，上面印有狂派的LOGO
 
-![狂派plus2](https://blog.devcker.com/wp-content/uploads/2021/08/DSC_0039-1024x576.jpg)
+![狂派plus2](./kuang-pai-dac/DSC_0039-1024x576.jpg)
 
 裡面的配件就是狂派PLUS2自己跟三個轉接頭，分別是type-c轉type-c、轉蘋果規格type-c轉lighting，還有一個應該是讓你接電腦用的USB-A otg
 
-![狂派plus2](https://blog.devcker.com/wp-content/uploads/2021/08/DSC_0040-1024x576.jpg)
+![狂派plus2](./kuang-pai-dac/DSC_0040-1024x576.jpg)
 
 本體就長這樣，小小隻的，大概跟食指差不多常而已
 
-![狂派plus2](https://blog.devcker.com/wp-content/uploads/2021/08/DSC_0041-1024x576.jpg)
+![狂派plus2](./kuang-pai-dac/DSC_0041-1024x576.jpg)
 
 然後就是他有支援3.5mm跟2.5mm平衡
 

@@ -20,11 +20,11 @@ date: 2020-12-19 14:11:52
 
 ## 專輯圖片
 
-![B'z - C'mon](https://blog.devcker.com/wp-content/uploads/2020/12/DSC_0008-1024x576.jpg)
+![B'z - C'mon](./unbox-bz-cmon/DSC_0008-1024x576.jpg)
 
-![B'z - C'mon](https://blog.devcker.com/wp-content/uploads/2020/12/DSC_0009-1024x576.jpg)
+![B'z - C'mon](./unbox-bz-cmon/DSC_0009-1024x576.jpg)
 
-![B'z - C'mon](https://blog.devcker.com/wp-content/uploads/2020/12/DSC_0012-1024x576.jpg)
+![B'z - C'mon](./unbox-bz-cmon/DSC_0012-1024x576.jpg)
 
 ## 曲目
 

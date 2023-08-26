@@ -27,15 +27,15 @@ date: 2020-06-03 19:53:40
 #### [貓頭鷹 Noctua NF-A14 PWM 風扇 14公分 SSO2 磁穩軸承 防震靜音扇 PC PARTY](https://bit.ly/2U6Jjpx "貓頭鷹 Noctua NF-A14 PWM 風扇 14公分 SSO2 磁穩軸承 防震靜音扇 PC PARTY")
 
 
-![Noctua NF-A14 盒子](https://blog.devcker.com/wp-content/uploads/2020/06/DSC_0004-1024x576.jpg)
+![Noctua NF-A14 盒子](./noctua-nf-a14-unbox/DSC_0004-1024x576.jpg)
 
 我第一次買風扇感覺這包裝好像有點高級，但也是啦都花了比其他家多了
 
-![Noctua NF-A14 盒子打開](https://blog.devcker.com/wp-content/uploads/2020/06/DSC_0005-1024x576.jpg)
+![Noctua NF-A14 盒子打開](./noctua-nf-a14-unbox/DSC_0005-1024x576.jpg)
 
 最讓我驚訝的是他盒子前面可以打開，這個就算不買來用，拿來擺著都覺得划算ＸＤ
 
-![Noctua NF-A14 內含物](https://blog.devcker.com/wp-content/uploads/2020/06/DSC_0006-1024x576.jpg)
+![Noctua NF-A14 內含物](./noctua-nf-a14-unbox/DSC_0006-1024x576.jpg)
 
 最後就是它內附的零組件，我是買PWM的版本，所以她有附一些延長線跟其他功能線，還有本體跟一個小說明書，還有附四顆螺絲
 

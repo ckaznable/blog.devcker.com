@@ -25,13 +25,13 @@ date: 2021-11-28 11:50:06
 
 ### [CNFT.IO](https://www.cnft.io/ "CNFT.IO")
 
-![CNFT.IO](https://blog.devcker.com/wp-content/uploads/2021/10/firefox_juaR6T8mqk-1024x474.png)
+![CNFT.IO](./cardano-nft-market-list/firefox_juaR6T8mqk-1024x474.png)
 
 這個網站是我自己主要用來買CNFT的網站，雖然還沒有支援智能合約，但這間是目前在CARDANO上流動性最大的交易所，最近也支援競價，可以期待之後有智能合約的功能
 
 ### [tokhun.io](http://tokhun.io "tokhun.io")
 
-![tokhun.io](https://blog.devcker.com/wp-content/uploads/2021/11/firefox_15zBDyagwH-1024x477.png)
+![tokhun.io](./cardano-nft-market-list/firefox_15zBDyagwH-1024x477.png)
 
 這間是我偶爾會在opencnft上面有進行交易的交易所，進入market之後會發現頁面長得很像opensea，左邊會有過濾選項，右邊則是nft
 
@@ -41,7 +41,7 @@ date: 2021-11-28 11:50:06
 
 ### [JPG.STORE](https://www.jpg.store/ "JPG.STORE")
 
-![JPG.STORE](https://blog.devcker.com/wp-content/uploads/2021/11/firefox_QoRv9TPR9l-1024x472.png)
+![JPG.STORE](./cardano-nft-market-list/firefox_QoRv9TPR9l-1024x472.png)
 
 這間是我在找有支援智能合約的交易所時發現的，目前是還沒用過，但這間介面我非常喜歡，簡潔一目了然
 
@@ -49,6 +49,6 @@ date: 2021-11-28 11:50:06
 
 ### [adapix.io](https://app.adapix.io/ "adapix.io")
 
-![adapix.io](https://blog.devcker.com/wp-content/uploads/2021/11/firefox_jw0P5jodyl-1024x475.png)
+![adapix.io](./cardano-nft-market-list/firefox_jw0P5jodyl-1024x475.png)
 
 這間也是我再找支援智能合約的網站時找到的，外表看起來也是跟opensea很像，目前看不出有什麼特點，等我哪天有在上面交易再來分享心得

@@ -19,7 +19,7 @@ date: 2020-03-22 13:52:54
 
 See the Pen [InputTag](https://codepen.io/kamix/pen/rNVZLPG) by CKR ([@kamix](https://codepen.io/kamix)) on [CodePen](https://codepen.io).
 
-主要功能就是一個大的輸入框，輸入完成之後按下Enter會產生一個tag ![TagInput Demo](https://blog.devcker.com/wp-content/uploads/2020/03/firefox_1mkZlM6x5h.png)
+主要功能就是一個大的輸入框，輸入完成之後按下Enter會產生一個tag ![TagInput Demo](./vanilla-js-taginput/firefox_1mkZlM6x5h.png)
 
 他的值會是 TEST,TEST2,TEST3，有幾個Tag就會用逗號接起來，點擊tag可以刪掉值，就是一個簡單的功能，需要的朋友可以直接抄codepen的程式碼再自己改一下應該就可以了，如果沒興趣知道實做就可以點上一頁走摟
 

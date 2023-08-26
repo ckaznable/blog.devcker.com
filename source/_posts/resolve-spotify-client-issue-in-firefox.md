@@ -15,6 +15,6 @@ date: 2021-04-03 09:10:07
 
 解決辦法很簡單，到spotify的網頁撥放器頁面按下f12或者去選項開啟開發人員工具
 
-然後最上方的tab選擇應用程式，之後就會看到以下畫面 ![spotify firefox service worker](https://blog.devcker.com/wp-content/uploads/2021/04/firefox_FRoD1LWwyk-1024x162.png)
+然後最上方的tab選擇應用程式，之後就會看到以下畫面 ![spotify firefox service worker](./resolve-spotify-client-issue-in-firefox/firefox_FRoD1LWwyk-1024x162.png)
 
 這個就是spotify註冊的service worker，右上角有個取消註冊，按下去之後重整就正常了，雖然我不知到為什麼只有firefox會有這問題，但官方修復之前也只能這樣做了

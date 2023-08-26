@@ -24,21 +24,21 @@ date: 2020-04-26 15:22:36
 
 ## 1\. 先在裝置管理員找到網卡 打開他
 
-![realtek gaming gbe family controller](https://blog.devcker.com/wp-content/uploads/2020/04/mmc_s7IfmrCBsf.png)
+![realtek gaming gbe family controller](./new-computer-network-slow/mmc_s7IfmrCBsf.png)
 
 ## 2\. 選到進階的選項
 
-![網路卡選項](https://blog.devcker.com/wp-content/uploads/2020/04/mmc_ek9uk4SNQp.png)
+![網路卡選項](./new-computer-network-slow/mmc_ek9uk4SNQp.png)
 
 ## 3\. 左邊內容找到連線速度與雙工模式
 
-![連線速度與雙工模式](https://blog.devcker.com/wp-content/uploads/2020/04/mmc_EakUGlnZCB.png)
+![連線速度與雙工模式](./new-computer-network-slow/mmc_EakUGlnZCB.png)
 
 ## 4\. 值的部分依照自己網速選擇
 
 我自己網速是300Mbps所以我是選1Gbps，這個部分應該是要看自己情況選擇
 
-![1.0Gbps 全雙工](https://blog.devcker.com/wp-content/uploads/2020/04/mmc_5lWeb6hUay.png)
+![1.0Gbps 全雙工](./new-computer-network-slow/mmc_5lWeb6hUay.png)
 
 ## 結論
 

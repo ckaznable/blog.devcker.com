@@ -32,7 +32,7 @@ date: 2021-01-23 14:49:07
 
 第二種方式就是用現在瀏覽器就原生支援的type="module"，用這個最大的好處就是你不用去配置各種環境，馬上就能進行開發，缺點就是你程式碼都要包裝成esm的格式，不過我自己是滿習慣這種開發方式，雖然這樣做不太好利用到npm的生態系，但非常的方便，而且不會讓整個架構胡再一起，在做小專案的時候我都用這種方式
 
-[![caniuse](https://blog.devcker.com/wp-content/uploads/2021/01/firefox_Q1ikeocagw-1024x349.png)](https://caniuse.com/es6-module "![caniuse](https://blog.devcker.com/wp-content/uploads/2021/01/firefox_Q1ikeocagw-1024x349.png)")
+[![caniuse](./browser-extension-use-import-and-export/firefox_Q1ikeocagw-1024x349.png)](https://caniuse.com/es6-module "![caniuse](./browser-extension-use-import-and-export/firefox_Q1ikeocagw-1024x349.png)")
 
 而且主流可以裝插件的瀏覽器都支援這個方式（終於不用考慮IE^^）
 

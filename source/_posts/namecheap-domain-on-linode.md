@@ -21,11 +21,11 @@ date: 2020-02-29 16:08:46
 
 ## Step 1
 
-先進入Linode的[Dashboard](https://cloud.linode.com/dashboard "Dashboard")，左邊選單有一個選項是Domains直接進去 ![Linode Domains Option](https://blog.devcker.com/wp-content/uploads/2020/02/firefox_pX53vJ9CEI.png)
+先進入Linode的[Dashboard](https://cloud.linode.com/dashboard "Dashboard")，左邊選單有一個選項是Domains直接進去 ![Linode Domains Option](./namecheap-domain-on-linode/firefox_pX53vJ9CEI.png)
 
 之後右上角的地方有一個Add a Domain一樣直接點下去，他會跑出一個設定的視窗
 
-![Linode Domain Setting](https://blog.devcker.com/wp-content/uploads/2020/02/firefox_SJ89k9AZKI.png)
+![Linode Domain Setting](./namecheap-domain-on-linode/firefox_SJ89k9AZKI.png)
 
 Domain那欄填上你買的Domain名稱，例如我在namecheap買的Domain是devcker.xyz那我就填上devcker.xyz
 
@@ -41,7 +41,7 @@ Linode這攔就選你這個Domain是要給哪一台vps用的
 
 之後按下確認，就可以看到一整個DNS的設定，其中最重要的就是NS Record，可以看下圖Linode給我了五個name server，而我們只需要把這五個設定到namecheap就行了，之前不知道我還把這頁全部的設定都輸入到namecheap，結果等了一天之後發現失敗了XD
 
-![Linode NS Record](https://blog.devcker.com/wp-content/uploads/2020/02/firefox_Vc7g9dsfuO-3-1024x291.png)
+![Linode NS Record](./namecheap-domain-on-linode/firefox_Vc7g9dsfuO-3-1024x291.png)
 
 到這邊Linode這邊就設定完了，接下來切換到namecheap的頁面
 
@@ -49,11 +49,11 @@ Linode這攔就選你這個Domain是要給哪一台vps用的
 
 一樣先進去namecheap的[Dashboard](https://ap.www.namecheap.com/dashboard "Dashboard")，如果你已經有買Domain應該會出現跟下圖差不多的選項，這邊選MANAGE
 
-![namecheap domain](https://blog.devcker.com/wp-content/uploads/2020/02/firefox_MQAGiWiBrR-1024x84.png)
+![namecheap domain](./namecheap-domain-on-linode/firefox_MQAGiWiBrR-1024x84.png)
 
 進去之後往下滑到Nameservers的地方，這邊選項原本是Namecheap Basic DNS把它改成Custom DNS，之後下方會出現可以填的選項，這邊把Linode剛剛給的那五個設定上去
 
-![namecheap set linode name server](https://blog.devcker.com/wp-content/uploads/2020/02/firefox_tsJ9SonmMg.png)
+![namecheap set linode name server](./namecheap-domain-on-linode/firefox_tsJ9SonmMg.png)
 
 ## Step 4
 

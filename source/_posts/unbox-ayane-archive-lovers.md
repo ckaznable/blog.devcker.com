@@ -23,9 +23,9 @@ date: 2020-12-13 15:13:16
 
 ## 專輯圖片
 
-![彩音 ARCHIVE LOVERS](https://blog.devcker.com/wp-content/uploads/2020/12/DSC_0019-1024x576.jpg)
+![彩音 ARCHIVE LOVERS](./unbox-ayane-archive-lovers/DSC_0019-1024x576.jpg)
 
-![彩音 ARCHIVE LOVERS](https://blog.devcker.com/wp-content/uploads/2020/12/DSC_0020-1024x576.jpg)
+![彩音 ARCHIVE LOVERS](./unbox-ayane-archive-lovers/DSC_0020-1024x576.jpg)
 
 背面還印有一個彩音穿著制服的照片
 

@@ -25,7 +25,7 @@ date: 2020-01-15 20:21:18
 
 ## [ES6標准入門](https://www.books.com.tw/exep/assp.php/kamix/products/CN11465965?sloc=main&utm_source=kamix&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202001 "ES6標准入門")
 
-\[caption id="attachment\_1000" align="alignnone" width="307"\]![ES6標准入門](https://blog.devcker.com/wp-content/uploads/2020/01/cover_thumbnail_3rd.jpg) ES6標准入門\[/caption\]
+\[caption id="attachment\_1000" align="alignnone" width="307"\]![ES6標准入門](./frontend-book-list/cover_thumbnail_3rd.jpg) ES6標准入門\[/caption\]
 
 這本書其實在網路上有\[[傳送門](https://es6.ruanyifeng.com/ "傳送門")\]，但是他有出成書的版本，我會想去支持一下，因為我自己在接觸ES6的時候，很多時候都是上去看這邊的介紹，包含各種arrow function, 解構, async，上面都寫得很清楚，很且範例很多，所以我是很推薦這本書的，可以說是這本書帶我認識es6的世界
 
@@ -41,7 +41,7 @@ date: 2020-01-15 20:21:18
 
 ## [你所不知道的JS：ES6與未來發展](https://www.books.com.tw/exep/assp.php/kamix/products/0010743987?sloc=main&utm_source=kamix&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202001 "你所不知道的JS：ES6與未來發展")
 
-\[caption id="attachment\_1009" align="alignnone" width="213"\]![你所不知道的JS：ES6與未來發展](https://blog.devcker.com/wp-content/uploads/2020/01/getImage-213x300.jpg) 你所不知道的JS：ES6與未來發展\[/caption\]
+\[caption id="attachment\_1009" align="alignnone" width="213"\]![你所不知道的JS：ES6與未來發展](./frontend-book-list/getImage-213x300.jpg) 你所不知道的JS：ES6與未來發展\[/caption\]
 
 這本跟ES6標準入門一樣有網路上的資源\[[傳送門](https://github.com/getify/You-Dont-Know-JS "傳送門")\]，只是一樣有出書的版本，有興趣的可以買來收藏一下
 
@@ -51,7 +51,7 @@ date: 2020-01-15 20:21:18
 
 ## [無瑕的程式碼：敏捷軟體開發技巧守則](https://www.books.com.tw/exep/assp.php/kamix/products/0010579897?sloc=main&utm_source=kamix&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202001 "無瑕的程式碼：敏捷軟體開發技巧守則")
 
-\[caption id="attachment\_1012" align="alignnone" width="214"\]![無瑕的程式碼：敏捷軟體開發技巧守則](https://blog.devcker.com/wp-content/uploads/2020/01/PG21334-214x300.jpg) 無瑕的程式碼：敏捷軟體開發技巧守則\[/caption\]
+\[caption id="attachment\_1012" align="alignnone" width="214"\]![無瑕的程式碼：敏捷軟體開發技巧守則](./frontend-book-list/PG21334-214x300.jpg) 無瑕的程式碼：敏捷軟體開發技巧守則\[/caption\]
 
 這本我覺得是學程式的人必看的書，這本其實是我當兵的時候，為了要解饞所以買的書，當初看網路上很多人都是推這本書，所以我自己就買了這本書，當兵的時候看
 

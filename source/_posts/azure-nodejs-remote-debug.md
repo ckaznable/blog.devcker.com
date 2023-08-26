@@ -19,7 +19,7 @@ date: 2020-02-16 11:21:16
 
 之後我在vscode的azure介面有看到一個start remote debug
 
-![azure remote debug](https://blog.devcker.com/wp-content/uploads/2020/02/Code_ZbwibvRLVx-211x300.png)
+![azure remote debug](./azure-nodejs-remote-debug/Code_ZbwibvRLVx-211x300.png)
 
 於是我就直接點下去，點下去之後看了下方的console一直跑出無法連接的訊息
 
@@ -27,7 +27,7 @@ date: 2020-02-16 11:21:16
 [Tunnel] Checking status, body: {"port":2222,"state":"STARTED","canReachPort":false,"msg":"Unable to connect to WebApp"}
 ```
 
-之後就直接說失敗 ![azure remote debug fail](https://blog.devcker.com/wp-content/uploads/2020/02/Code_8Z0gKBgean-300x51.png)
+之後就直接說失敗 ![azure remote debug fail](./azure-nodejs-remote-debug/Code_8Z0gKBgean-300x51.png)
 
 於是我又爬文，原來是要啟動的時候azure的容器會指定一個inspect的port，我們只要把這個port告訴給nodejs讓程式知道說log要到這邊，這樣就可以正常使用remote debug的功能
 

@@ -35,43 +35,43 @@ date: 2020-08-08 11:24:09
 
 ### 贈品
 
-![聲海 贈品](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0001-1024x576.jpg)
+![聲海 贈品](./sennheiser-pxc-550-ii-unbox/DSC_0001-1024x576.jpg)
 
 這些是從聲海官方店拿到的贈品，黑色包裝的是頸枕
 
-![聲海 贈品](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0002-1024x576.jpg)
+![聲海 贈品](./sennheiser-pxc-550-ii-unbox/DSC_0002-1024x576.jpg)
 
-![聲海 贈品](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0003-1024x576.jpg)
+![聲海 贈品](./sennheiser-pxc-550-ii-unbox/DSC_0003-1024x576.jpg)
 
 打開包裝後頸枕大改長這樣
 
-![聲海 贈品 收納包](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0004-1024x576.jpg)
+![聲海 贈品 收納包](./sennheiser-pxc-550-ii-unbox/DSC_0004-1024x576.jpg)
 
 再來是用三倍券會送的收納包，就小小一個，然後是會有一些味道，拿到之後可能要曬一下
 
-![聲海 贈品 環保袋](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0005-1024x576.jpg)
+![聲海 贈品 環保袋](./sennheiser-pxc-550-ii-unbox/DSC_0005-1024x576.jpg)
 
-![聲海 贈品 環保袋](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0006-1024x576.jpg)
+![聲海 贈品 環保袋](./sennheiser-pxc-550-ii-unbox/DSC_0006-1024x576.jpg)
 
 再來這個環保袋應該是買耳機都會有的環保袋，感覺還滿潮的，看起來也是滿大的
 
 ### 本體
 
-![Sennheiser PXC 550 II 盒子](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0007-1024x576.jpg)
+![Sennheiser PXC 550 II 盒子](./sennheiser-pxc-550-ii-unbox/DSC_0007-1024x576.jpg)
 
 外包裝大概長這樣
 
-![Sennheiser PXC 550 II 內容](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0008-1024x576.jpg)
+![Sennheiser PXC 550 II 內容](./sennheiser-pxc-550-ii-unbox/DSC_0008-1024x576.jpg)
 
-![Sennheiser PXC 550 II 內容](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0009-1024x576.jpg)
+![Sennheiser PXC 550 II 內容](./sennheiser-pxc-550-ii-unbox/DSC_0009-1024x576.jpg)
 
 裡面有說明書跟一個軟的收納盒
 
-![Sennheiser PXC 550 II 內容物](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0010-1024x576.jpg)
+![Sennheiser PXC 550 II 內容物](./sennheiser-pxc-550-ii-unbox/DSC_0010-1024x576.jpg)
 
 可以收納成那麼小 真的方便
 
-![Sennheiser PXC 550 II 本體](https://blog.devcker.com/wp-content/uploads/2020/08/DSC_0011-1024x576.jpg)
+![Sennheiser PXC 550 II 本體](./sennheiser-pxc-550-ii-unbox/DSC_0011-1024x576.jpg)
 
 裡面會付micro-usb充電線 2.5mm轉3.5mm的轉接線 飛機上的轉接頭
 

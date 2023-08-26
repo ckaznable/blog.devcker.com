@@ -23,11 +23,11 @@ date: 2020-12-13 15:55:28
 
 ## 專輯圖片
 
-![少年と魔法のロボット VOCALOID BEST,NEW RECORDINGS](https://blog.devcker.com/wp-content/uploads/2020/12/DSC_0013-1024x576.jpg)
+![少年と魔法のロボット VOCALOID BEST,NEW RECORDINGS](./unbox-vocaloid-album-40mp-magic-robot/DSC_0013-1024x576.jpg)
 
-![少年と魔法のロボット VOCALOID BEST,NEW RECORDINGS](https://blog.devcker.com/wp-content/uploads/2020/12/DSC_0014-1024x576.jpg)
+![少年と魔法のロボット VOCALOID BEST,NEW RECORDINGS](./unbox-vocaloid-album-40mp-magic-robot/DSC_0014-1024x576.jpg)
 
-![少年と魔法のロボット VOCALOID BEST,NEW RECORDINGS](https://blog.devcker.com/wp-content/uploads/2020/12/DSC_0015-1024x576.jpg)
+![少年と魔法のロボット VOCALOID BEST,NEW RECORDINGS](./unbox-vocaloid-album-40mp-magic-robot/DSC_0015-1024x576.jpg)
 
 ## 曲目
 

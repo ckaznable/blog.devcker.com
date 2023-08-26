@@ -67,7 +67,7 @@ Enter same passphrase again:
 
 > .pub的是公鑰，之後要放上去github或gitlab都用這個
 
-![ssh-keygen](https://blog.devcker.com/wp-content/uploads/2020/01/mintty_N7AnqJ63YY.png)
+![ssh-keygen](./same-host-use-mutiple-ssh-key/mintty_N7AnqJ63YY.png)
 
 ## 設定ssh
 
@@ -120,11 +120,11 @@ cat ~/.ssh/id_rsa.pub
 
 先去github的設定頁，左側有一個SSH and GPG Key直接點進去
 
-![github ssh setting](https://blog.devcker.com/wp-content/uploads/2020/01/firefox_hFt0ovIqMw-144x300.png) 進去之後有一個new SSH key的按鈕點進去
+![github ssh setting](./same-host-use-mutiple-ssh-key/firefox_hFt0ovIqMw-144x300.png) 進去之後有一個new SSH key的按鈕點進去
 
 進去之後會看到這樣的畫面，直接把剛剛複製的公鑰貼進去key的欄位裡面，title取一個自己知道的名字就可以了，完成之後直接Add SSH key
 
-![github add ssh key](https://blog.devcker.com/wp-content/uploads/2020/01/firefox_2WTx9sOmRZ-3-1024x495.png)
+![github add ssh key](./same-host-use-mutiple-ssh-key/firefox_2WTx9sOmRZ-3-1024x495.png)
 
 這樣github上就有你的公鑰了，github的部分就這樣設定完成
 
@@ -132,9 +132,9 @@ cat ~/.ssh/id_rsa.pub
 
 gitlab跟github是大同小異，一樣先進去設定頁面，一樣左側選單選擇SSH keys
 
-![gitlab setting](https://blog.devcker.com/wp-content/uploads/2020/01/firefox_aKFZ6Ih1Ky-107x300.png) 點進去之後就有一個key的欄位可以直接貼上你的公鑰，title一樣打上你知道的名字就好，輸入完成之後點Add key就OK了
+![gitlab setting](./same-host-use-mutiple-ssh-key/firefox_aKFZ6Ih1Ky-107x300.png) 點進去之後就有一個key的欄位可以直接貼上你的公鑰，title一樣打上你知道的名字就好，輸入完成之後點Add key就OK了
 
-![gitlab add ssh key](https://blog.devcker.com/wp-content/uploads/2020/01/firefox_tUQrsGIhvu-1024x498.png)
+![gitlab add ssh key](./same-host-use-mutiple-ssh-key/firefox_tUQrsGIhvu-1024x498.png)
 
 gitlab到這邊也就設定完成
 

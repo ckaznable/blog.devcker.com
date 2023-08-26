@@ -47,11 +47,11 @@ date: 2020-09-05 12:40:21
 
 HTML code使用也很簡單
 
-![start-clicks html code menu](https://blog.devcker.com/wp-content/uploads/2020/09/brave_XWMMwONZ7W.png)
+![start-clicks html code menu](./start-clicks-com-makemoney-and-htmlcode/brave_XWMMwONZ7W.png)
 
 左邊選單先進去這個HTML Code的頁面
 
-![start-clicks html code](https://blog.devcker.com/wp-content/uploads/2020/09/brave_s3pY6oSbPj-1024x407.png)
+![start-clicks html code](./start-clicks-com-makemoney-and-htmlcode/brave_s3pY6oSbPj-1024x407.png)
 
 然後滾到最下面會有一串html，直接複製這個html貼到你的網站上，他應該會就在你貼的位置產生廣告
 

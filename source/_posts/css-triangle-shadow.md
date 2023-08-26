@@ -55,7 +55,7 @@ html的部分
 
 放上去之後應該會長得像下面的圖一樣，接下來就是開始新增邊框
 
-![對話框demo](https://blog.devcker.com/wp-content/uploads/2020/01/firefox_OLfG9aYq7W-300x159.png)
+![對話框demo](./css-triangle-shadow/firefox_OLfG9aYq7W-300x159.png)
 
 ## 方法一   用更大的三角形當邊框
 
@@ -80,7 +80,7 @@ html的部分
 
 成果大概長這樣
 
-![對話框demo 2](https://blog.devcker.com/wp-content/uploads/2020/01/firefox_of7WTh3JN4-300x167.png)
+![對話框demo 2](./css-triangle-shadow/firefox_of7WTh3JN4-300x167.png)
 
 ## 方法二   旋轉陰影
 
@@ -133,4 +133,4 @@ html的部分
 }
 ```
 
-大概就會像這樣 ![對話框demo 3](https://blog.devcker.com/wp-content/uploads/2020/01/firefox_qxVRLAx2mf-300x173.png)
+大概就會像這樣 ![對話框demo 3](./css-triangle-shadow/firefox_qxVRLAx2mf-300x173.png)

@@ -22,27 +22,27 @@ date: 2020-11-14 12:04:02
 
 ## 以下微開箱
 
-![迪士尼包裹 包裝](https://blog.devcker.com/wp-content/uploads/2020/11/DSC_0004-1024x576.jpg)
+![迪士尼包裹 包裝](./second-time-used-leyifan-experience/DSC_0004-1024x576.jpg)
 
 首先拿到的時候是迪士尼的包裹，這也是讓我滿驚喜的，畢竟我這生大概沒什麼機會會買迪士尼的東西，而且還是日本的
 
-![迪士尼包裹 包裝](https://blog.devcker.com/wp-content/uploads/2020/11/DSC_0005-1024x576.jpg)
+![迪士尼包裹 包裝](./second-time-used-leyifan-experience/DSC_0005-1024x576.jpg)
 
-![迪士尼包裹 包裝](https://blog.devcker.com/wp-content/uploads/2020/11/DSC_0006-1024x576.jpg)
+![迪士尼包裹 包裝](./second-time-used-leyifan-experience/DSC_0006-1024x576.jpg)
 
 不得不說迪士尼在這方面真的滿用心的，還告訴你是用魔法與夢想送來的包裹，真的充滿了迪士尼的作風
 
-![denon c820 + cd](https://blog.devcker.com/wp-content/uploads/2020/11/DSC_0007-1024x576.jpg)
+![denon c820 + cd](./second-time-used-leyifan-experience/DSC_0007-1024x576.jpg)
 
 打開之後就是我的[Denon C820](https://amzn.to/3lJ4k5D "C820")還有在樂天買的三張專輯
 
-![cd](https://blog.devcker.com/wp-content/uploads/2020/11/DSC_0008-1024x576.jpg)
+![cd](./second-time-used-leyifan-experience/DSC_0008-1024x576.jpg)
 
 暨上次買了B'z的[EPIC DAY](https://amzn.to/3kriczX "EPIC DAY")跟[C'mon](https://amzn.to/3lwfH0u "C'mon")，這次還買了[magic](https://amzn.to/3kuAZdD "magic")跟[DINOSAUR](https://amzn.to/3ktpT8D "DINOSAUR")
 
 [VOCALOID 超BEST-impacts-](https://amzn.to/35sPCd2 "VOCALOID 超BEST-impacts-")這片是因為樂天折價券的價格還沒到，所以隨手挑了一片，以價格來看算是送的xd
 
-![denon c820](https://blog.devcker.com/wp-content/uploads/2020/11/DSC_0013-1024x576.jpg)
+![denon c820](./second-time-used-leyifan-experience/DSC_0013-1024x576.jpg)
 
 再來就是這次主要買的目的，我的[Denon C820](https://amzn.to/3lJ4k5D "C820")!!
 

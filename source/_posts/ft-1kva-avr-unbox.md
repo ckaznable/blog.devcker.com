@@ -17,17 +17,17 @@ date: 2020-03-21 10:51:19
 
 [【【FT飛碟】 1KVA 三段全電子式穩壓器](https://product.mchannles.com/redirect_wa.php?k=2ebD5&tourl=https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5946475&Area=search&mdiv=403&oid=1_1&cid=index&kw=ft%201kva)
 
-[![【FT飛碟】 1KVA 三段全電子式穩壓器](https://blog.devcker.com/wp-content/uploads/2020/03/5973793_R.jpg)](https://product.mchannles.com/redirect_wa.php?k=2ebD5&tourl=https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5946475&Area=search&mdiv=403&oid=1_1&cid=index&kw=ft%201kva)
+[![【FT飛碟】 1KVA 三段全電子式穩壓器](./ft-1kva-avr-unbox/5973793_R.jpg)](https://product.mchannles.com/redirect_wa.php?k=2ebD5&tourl=https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5946475&Area=search&mdiv=403&oid=1_1&cid=index&kw=ft%201kva)
 
-下單之後，貨很快就到了，穩壓器還滿重的，應該有1公斤以上，感覺比我的筆電還要重 ![FT飛碟 1KVA 三段全電子式穩壓器 包裝](https://blog.devcker.com/wp-content/uploads/2020/03/DSC_0064-1024x576.jpg)
+下單之後，貨很快就到了，穩壓器還滿重的，應該有1公斤以上，感覺比我的筆電還要重 ![FT飛碟 1KVA 三段全電子式穩壓器 包裝](./ft-1kva-avr-unbox/DSC_0064-1024x576.jpg)
 
-馬上把他打開來看，裡面有說明書，保固卡，還有就是本體 ![FT飛碟 1KVA 三段全電子式穩壓器 開箱](https://blog.devcker.com/wp-content/uploads/2020/03/DSC_0065-1024x576.jpg)
+馬上把他打開來看，裡面有說明書，保固卡，還有就是本體 ![FT飛碟 1KVA 三段全電子式穩壓器 開箱](./ft-1kva-avr-unbox/DSC_0065-1024x576.jpg)
 
-拆掉塑膠袋之後 本體大概長這樣 ![FT飛碟 1KVA 三段全電子式穩壓器](https://blog.devcker.com/wp-content/uploads/2020/03/DSC_0066-1024x576.jpg)
+拆掉塑膠袋之後 本體大概長這樣 ![FT飛碟 1KVA 三段全電子式穩壓器](./ft-1kva-avr-unbox/DSC_0066-1024x576.jpg)
 
-他有8個插座可以用 分別是四個穩壓跟四個防突波，不過位置還滿近的，大一點的變壓器可能就會佔到兩格位置... ![FT飛碟 1KVA 三段全電子式穩壓器](https://blog.devcker.com/wp-content/uploads/2020/03/DSC_0067-1024x576.jpg)
+他有8個插座可以用 分別是四個穩壓跟四個防突波，不過位置還滿近的，大一點的變壓器可能就會佔到兩格位置... ![FT飛碟 1KVA 三段全電子式穩壓器](./ft-1kva-avr-unbox/DSC_0067-1024x576.jpg)
 
-然後我馬上把我的設備和螢幕插上去試試看，如圖所示光NS的變壓器就佔了兩格XD，不過這倒是沒關係，還要我沒有太多東西要插，插頭插上去之後他旁邊有個紅色電源開關按一下就啟動了 ![FT飛碟 1KVA 三段全電子式穩壓器](https://blog.devcker.com/wp-content/uploads/2020/03/DSC_0068-1024x576.jpg)
+然後我馬上把我的設備和螢幕插上去試試看，如圖所示光NS的變壓器就佔了兩格XD，不過這倒是沒關係，還要我沒有太多東西要插，插頭插上去之後他旁邊有個紅色電源開關按一下就啟動了 ![FT飛碟 1KVA 三段全電子式穩壓器](./ft-1kva-avr-unbox/DSC_0068-1024x576.jpg)
 
 ## 結論
 

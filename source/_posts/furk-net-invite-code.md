@@ -55,6 +55,6 @@ date: 2020-02-08 11:39:22
 
 \[adinserter block="4"\] \[adinserter block="9"\]
 
-![furk.net填入邀請碼](https://blog.devcker.com/wp-content/uploads/2020/02/firefox_8gKJWQut8C-300x261.png)
+![furk.net填入邀請碼](./furk-net-invite-code/firefox_8gKJWQut8C-300x261.png)
 
 註冊直接填入上圖紅色框的地方就可以

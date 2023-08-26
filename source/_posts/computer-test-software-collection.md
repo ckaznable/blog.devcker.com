@@ -19,7 +19,7 @@ date: 2020-06-06 21:52:31
 
 ## [3DMARK](https://www.3dmark.com/zh-hant/ "3DMARK")
 
-[![3dmark](https://blog.devcker.com/wp-content/uploads/2020/06/firefox_5xIEhPFsmQ-1024x576.png)](https://www.3dmark.com/zh-hant/)
+[![3dmark](./computer-test-software-collection/firefox_5xIEhPFsmQ-1024x576.png)](https://www.3dmark.com/zh-hant/)
 
 主要測試電腦的遊戲性能，還有就是可以測試DX12的效能，這款雖然要付費，但是因為STEAM滿常打折的，夏特冬特的時候都會很便宜，買回來可以測個夠本，建議直接放進願望清單
 
@@ -27,7 +27,7 @@ date: 2020-06-06 21:52:31
 
 ## [AIDA64](https://www.aida64.com/downloads "AIDA64")
 
-[![AIDA64 Ryzen7 3700X](https://blog.devcker.com/wp-content/uploads/2020/06/aida64_KV417LAN5u-1024x737.png)](https://www.aida64.com/downloads)
+[![AIDA64 Ryzen7 3700X](./computer-test-software-collection/aida64_KV417LAN5u-1024x737.png)](https://www.aida64.com/downloads)
 
 這個應該大家都有聽過，可以做CPU單烤，記憶體測試，而且還有其他好用功能，一樣是付費軟體，但以這些功能來說我覺得不算貴
 
@@ -35,7 +35,7 @@ date: 2020-06-06 21:52:31
 
 ## [CrystalDiskMark](https://crystalmark.info/en/download/ "CrystalDiskMark")
 
-[![CrystalDiskMark](https://blog.devcker.com/wp-content/uploads/2020/06/DiskMark64_Z75JQmvNgZ.png)](https://crystalmark.info/en/download/)
+[![CrystalDiskMark](./computer-test-software-collection/DiskMark64_Z75JQmvNgZ.png)](https://crystalmark.info/en/download/)
 
 這是硬碟跑分軟體，同時也可以確認SSD有沒有做好4k對齊，免費軟體下載就可以直接測試
 
@@ -45,7 +45,7 @@ date: 2020-06-06 21:52:31
 
 ## [Cinebench R20](https://www.microsoft.com/zh-tw/p/cinebench/9pgzkjc81q7j?activetab=pivot:overviewtab "Cinebench R20")
 
-[![3700X Cinebench R20](https://blog.devcker.com/wp-content/uploads/2020/06/Cinebench_DYuGJdLsOu-1024x534.jpg)](https://www.maxon.net/en-us/products/cinebench-r20-overview/)
+[![3700X Cinebench R20](./computer-test-software-collection/Cinebench_DYuGJdLsOu-1024x534.jpg)](https://www.maxon.net/en-us/products/cinebench-r20-overview/)
 
 跑分軟體，可以測試CPU的性能，支援多核跟單核分別測試，還有你可以跟別人同型號的CPU來比較跑分差距，如果差太多那可能就是有問題，而且是免費軟體，不過取得方式比較特殊，windows的在微軟商店，mac在apple store
 
@@ -53,7 +53,7 @@ date: 2020-06-06 21:52:31
 
 ## [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html "CPU-Z")
 
-[![3700X CPU-Z](https://blog.devcker.com/wp-content/uploads/2020/06/cpuz_x64_agOSPdMeeo.png)](https://www.cpuid.com/softwares/cpu-z.html)
+[![3700X CPU-Z](./computer-test-software-collection/cpuz_x64_agOSPdMeeo.png)](https://www.cpuid.com/softwares/cpu-z.html)
 
 很常用的軟體，可以查看CPU跟記憶體的型號跟一些詳細資料，再來就是他可以跑分，一樣也是分單核多核，測完一樣可以跟別人的結果作比較
 
@@ -61,7 +61,7 @@ date: 2020-06-06 21:52:31
 
 ## [FurMark](https://geeks3d.com/furmark/downloads/ "FurMark")
 
-[![FurMark](https://blog.devcker.com/wp-content/uploads/2020/06/FurMark_WDj8yFZVMS.png)](https://geeks3d.com/furmark/downloads/")
+[![FurMark](./computer-test-software-collection/FurMark_WDj8yFZVMS.png)](https://geeks3d.com/furmark/downloads/")
 
 俗稱的甜甜圈，主要測顯示卡穩定性，我自己換新的顯示卡都會用這個軟體燒個0.5~1小時，來確定這張顯卡在高負載的狀況下不會出事情
 
@@ -69,7 +69,7 @@ date: 2020-06-06 21:52:31
 
 ## [OCCT](https://geeks3d.com/furmark/downloads/ "OCCT")
 
-[![OCCT](https://blog.devcker.com/wp-content/uploads/2020/06/OCCT6.0.0_JTbCd8sqDU-1024x640.png)](https://www.ocbase.com/)
+[![OCCT](./computer-test-software-collection/OCCT6.0.0_JTbCd8sqDU-1024x640.png)](https://www.ocbase.com/)
 
 OCCT主要測試電源的穩定性，還有就是燒機，一樣是免費軟體，我換新電源跟換新顯卡也會拿這個軟體來跑一下
 
@@ -77,7 +77,7 @@ OCCT主要測試電源的穩定性，還有就是燒機，一樣是免費軟體�
 
 ## [7-zip](https://www.7-zip.org/ "7-zip")
 
-[![Ryzen7 3700X  7-zip](https://blog.devcker.com/wp-content/uploads/2020/06/7zG_XynYHTfa37.png)](https://www.7-zip.org/)
+[![Ryzen7 3700X  7-zip](./computer-test-software-collection/7zG_XynYHTfa37.png)](https://www.7-zip.org/)
 
 7-zip雖然是壓縮軟體但他自己有效能測試的功能，所以就還是會拿它來跑一下分，是測試CPU的部分
 
@@ -87,7 +87,7 @@ OCCT主要測試電源的穩定性，還有就是燒機，一樣是免費軟體�
 
 ## [V-Ray 5 Benchmark](https://www.chaosgroup.com/vray/benchmark "V-Ray 5 Benchmark")
 
-![V-Ray Benchmark 3700x](https://blog.devcker.com/wp-content/uploads/2020/06/V-Ray_Benchmark_U2CiR3hPYZ-1024x642.png)
+![V-Ray Benchmark 3700x](./computer-test-software-collection/V-Ray_Benchmark_U2CiR3hPYZ-1024x642.png)
 
 V-Ray可以是一個測試渲染跑分的軟體，他可以只跑cpu或只跑gpu或兩個一起跑，跑完之後可以上傳上去，還能順便看看別人的分數
 
@@ -95,7 +95,7 @@ V-Ray可以是一個測試渲染跑分的軟體，他可以只跑cpu或只跑gpu
 
 ## [Corona Benchmark](https://corona-renderer.com/benchmark "Corona Benchmark")
 
-![corona benchmark 3700x](https://blog.devcker.com/wp-content/uploads/2020/06/Corona_Release_n4W4z2dqXa-1024x499.jpg)
+![corona benchmark 3700x](./computer-test-software-collection/Corona_Release_n4W4z2dqXa-1024x499.jpg)
 
 這套一樣是渲染跑分的軟體，使用方法就是載完之後打開它就會開始跑了，等一段時間之後結果就會跑出來
 
@@ -105,7 +105,7 @@ V-Ray可以是一個測試渲染跑分的軟體，他可以只跑cpu或只跑gpu
 
 ## [blender benchmark](https://opendata.blender.org/ "blender benchmark")
 
-![blender benchmark 3700x rx470](https://blog.devcker.com/wp-content/uploads/2020/06/benchmark-launcher_nxwAqVUeeF.png)
+![blender benchmark 3700x rx470](./computer-test-software-collection/benchmark-launcher_nxwAqVUeeF.png)
 
 blender自己是一個做3D模組的軟體，但他有另外出一個跑分用的軟體，可以跑CPU+GPU的渲染跑分，他有六個跑分項目可以選，但一個項目都要跑一段時間，如果六個都選就需要等久一點才會有結果
 
